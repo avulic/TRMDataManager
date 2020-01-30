@@ -1,0 +1,6 @@
+C:\Users\Ante\Projekti\learning\web\TRMDataManager\TRMData\bin\Debug\TRMData.dacpac
+C:\Users\Ante\Projekti\learning\web\TRMDataManager\TRMData\bin\Debug\TRMData.dll
+C:\Users\Ante\Projekti\learning\web\TRMDataManager\TRMData\bin\Debug\TRMData.pdb
+C:\Users\Ante\Projekti\learning\web\TRMDataManager\TRMData\obj\Debug\TRMData.dll
+C:\Users\Ante\Projekti\learning\web\TRMDataManager\TRMData\obj\Debug\TRMData.pdb
+C:\Users\Ante\Projekti\learning\web\TRMDataManager\TRMData\obj\Debug\TRMData.sqlprojAssemblyReference.cache
